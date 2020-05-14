@@ -31,9 +31,14 @@ function draw() {
   Engine.update(engine);
   
   ground.display();
+  
   block1.display();
   block2.display();
   block3.display();
-
+  block4.display();
+  block5,display();
+  block6.display();
+  block7.display();
+  block8.display();
   drawSprites();
 }
